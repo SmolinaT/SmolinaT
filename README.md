@@ -1,6 +1,5 @@
-### Привет, меня зовут Татьяна 👋
-
-<div id="header" align="left">
+<div id="header" align="center">
+  ### Привет, меня зовут Татьяна 👋
   <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 
