@@ -1,7 +1,7 @@
 ### Привет, меня зовут Татьяна 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 
 - 🔭 Закончила курс по веб-разработке в Яндекс Практикуме
