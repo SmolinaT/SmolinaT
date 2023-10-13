@@ -23,4 +23,4 @@
 
 ### 💻Мои контакты:
 - 📧Моя почта smolina-ta97@yandex.ru
-- 📱[Мой Telegram]()
+- 📱[Мой Telegram](https://t.me/Tatiananananan)
