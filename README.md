@@ -22,5 +22,5 @@
 </div>  
 
 ### 💻Мои контакты:
-- 📧Моя почта smolina-ta97@yandex.ru
-- 📱[Мой Telegram](https://t.me/Tatiananananan)
+- 📧Почта smolina-ta97@yandex.ru
+- 📱[Telegram](https://t.me/Tatiananananan)
