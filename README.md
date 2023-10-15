@@ -23,11 +23,9 @@
 ### 💻Мои контакты:
 <div>
   <a href="mailto:smolina-ta97@yandex.ru">
-  <img src="https://img.shields.io/badge/smolina-ta97@yandex.ru-yellow?style=for-the-badge&logo=smolina-ta97@yandex.ru&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://t.me/Tatiananananan">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-- 📧 Почта smolina-ta97@yandex.ru
-- 📱[Telegram](https://t.me/Tatiananananan)
