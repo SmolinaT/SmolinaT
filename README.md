@@ -23,7 +23,7 @@
 ### 💻Мои контакты:
 <div>
   <a href="mailto:smolina-ta97@yandex.ru">
-  <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=email: smolina-ta97@yandex.ru&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://t.me/Tatiananananan">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
